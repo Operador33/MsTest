@@ -1,0 +1,5 @@
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\ATV-MSTEST\atividade_imc_msteste\obj\Debug\net8.0\atividade_imc_msteste.csproj.AssemblyReference.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\ATV-MSTEST\atividade_imc_msteste\obj\Debug\net8.0\atividade_imc_msteste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\ATV-MSTEST\atividade_imc_msteste\obj\Debug\net8.0\atividade_imc_msteste.AssemblyInfoInputs.cache
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\ATV-MSTEST\atividade_imc_msteste\obj\Debug\net8.0\atividade_imc_msteste.AssemblyInfo.cs
+C:\Users\operador\Documents\MATERIAL CURSO FULL STACK SENAI\ATV-MSTEST\atividade_imc_msteste\obj\Debug\net8.0\atividade_imc_msteste.csproj.CoreCompileInputs.cache
